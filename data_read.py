@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 
 ## 데이터 불러오기
 dir_data = './datasets'
-a = 2
 
 name_label = 'train-labels.tif'
 name_input = 'train-volume.tif'
